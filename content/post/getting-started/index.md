@@ -9,10 +9,10 @@ summary: We proposed a DRL model for autonomous navigation in dynamic environmen
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: ""
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: ""
 
 # Is this an unpublished draft?
 draft: false
@@ -31,14 +31,6 @@ image:
 authors:
 - admin
 - Mitsuhiro Hayashibe
-
-tags:
-- Academic
-- 开源
-
-categories:
-- Demo
-- 教程
 ---
 
 ## Overview

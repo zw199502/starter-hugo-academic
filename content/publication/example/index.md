@@ -22,7 +22,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2022 IEEE/SICE International Symposium on System Integration (SII 2022)*
-publication_short: In *SII*
+publication_short: In *2022 IEEE/SICE International Symposium on System Integration (SII 2022)*
 
 abstract: We propose a reinforcement learning (RL) based hierarchical control framework for path tracking of a wheeled bipedal robot. The framework consists of three control levels. 1) The high-level RL is used to obtain an optimal policy through trial and error in a simulated environment. 2) The middle-level Lyapunov-based non-linear controller is utilized to track a desired line with strong robustness and high stability. 3) The low-level PID-based controller is implemented to simultaneously achieve both balancing and velocity tracking for a physical wheeled bipedal robot in real world. Thanks to the middle-level controller, the offline trained policy in simulation can be directly employed on the physical robot in real time without tuning any parameters. Moreover, the high-level policy network is able to improve optimality and generality for the task of path tracking, as well to avoid the cumbersome process of manually tuning control gains. The experiment results in both simulation and real world demonstrate that the proposed hierarchical control framework can achieve quick, robust, and stable path tracking for a wheeled bipedal robot.
 

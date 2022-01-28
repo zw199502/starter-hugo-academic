@@ -44,7 +44,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://wowchemy.com/docs/writing-markdown-latex/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -54,12 +54,5 @@ image:
   preview_only: false
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-[video](https://wowchemy.com/docs/writing-markdown-latex/).

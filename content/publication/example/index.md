@@ -44,7 +44,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://wowchemy.com/docs/writing-markdown-latex/'
+url_video: 'https://www.youtube.com/watch?v=B01vbc-Lx1Q'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

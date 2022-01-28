@@ -1,19 +1,15 @@
 ---
-title: "An example conference paper"
+title: "Reinforcement Learning based Hierarchical Control for Path Tracking of a Wheeled Bipedal Robot with Sim-to-Real Framework"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Fahad Raza
+- and Mitsuhiro Hayashibe
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +22,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2022 IEEE/SICE International Symposium on System Integration (SII 2022)*
+publication_short: In *SII*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: We propose a reinforcement learning (RL) based hierarchical control framework for path tracking of a wheeled bipedal robot. The framework consists of three control levels. 1) The high-level RL is used to obtain an optimal policy through trial and error in a simulated environment. 2) The middle-level Lyapunov-based non-linear controller is utilized to track a desired line with strong robustness and high stability. 3) The low-level PID-based controller is implemented to simultaneously achieve both balancing and velocity tracking for a physical wheeled bipedal robot in real world. Thanks to the middle-level controller, the offline trained policy in simulation can be directly employed on the physical robot in real time without tuning any parameters. Moreover, the high-level policy network is able to improve optimality and generality for the task of path tracking, as well to avoid the cumbersome process of manually tuning control gains. The experiment results in both simulation and real world demonstrate that the proposed hierarchical control framework can achieve quick, robust, and stable path tracking for a wheeled bipedal robot.
 
 tags: []
 
@@ -60,21 +53,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
----
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -84,4 +62,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+[video](https://wowchemy.com/docs/writing-markdown-latex/).

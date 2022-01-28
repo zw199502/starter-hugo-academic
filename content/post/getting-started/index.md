@@ -24,4 +24,4 @@ authors:
 - Mitsuhiro Hayashibe
 ---
 
-
+We proposed a DRL model for autonomous navigation in dynamic environments directly using raw Laser scans. We deployed the model in ROS/Gazebo using a differential mobile robot and real worlds with a quadruped robot.

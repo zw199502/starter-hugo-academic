@@ -38,7 +38,7 @@ featured: true
 
 url_pdf: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=B01vbc-Lx1Q'
+url_video: 'https://youtu.be/f2ktS3TSF-g'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

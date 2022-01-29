@@ -7,7 +7,7 @@ title: "Development of a Reconfigurable Modular Snake-like Robot and Research on
 authors:
 - admin
 - Xian Guo
-- Yongchun Fang\
+- Yongchun Fang
 - and Xueyou Zhang
 
 date: "2020-02-01T00:00:00Z"

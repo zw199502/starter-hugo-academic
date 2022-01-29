@@ -39,7 +39,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8787376'
-
+url_video: 'https://youtu.be/ukqOkEEqFYI'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

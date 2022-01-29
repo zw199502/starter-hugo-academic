@@ -18,7 +18,7 @@ bio: My research interests include deep reinforcement learning, snake robots, wh
 
 # Interests to show in About widget
 interests:
-- Deep reinforcement learning (DRL)
+- deep reinforcement learning (DRL)
 - snake robots and wheeled bipedal robots
 - motion planning and navigation
 

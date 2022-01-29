@@ -7,8 +7,8 @@ title: "Reinforcement Learning-based Hierarchical Control for Path Following of 
 authors:
 - Xueyou Zhang
 - Xian Guo
-- Yongchun Fang, and
-- admin 
+- Yongchun Fang,
+- and Wei Zhu 
 
 
 date: "2020-10-01T00:00:00Z"

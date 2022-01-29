@@ -7,7 +7,7 @@ title: "Guided Motion Planning for Snake-like Robots Based on Geometry Mechanics
 authors:
 - Xian Guo
 - admin
-- Yongchun Fang
+- and Yongchun Fang
 
 date: "2019-09-01T00:00:00Z"
 

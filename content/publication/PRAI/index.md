@@ -7,7 +7,7 @@ title: "Target-Directed Locomotion of a Snake-Like Robot Based on Path Integral 
 authors:
 - Yongchun Fang
 - admin
-- Xian Guo
+- and Xian Guo
 
 
 date: "2018-09-01T00:00:00Z"

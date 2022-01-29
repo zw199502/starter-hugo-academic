@@ -39,6 +39,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8941307'
+url_code: 'https://github.com/zw199502/path_integral_reinforcement_learning'
 url_video: 'https://youtu.be/JoDzcbL7mfo'
 
 # Featured image

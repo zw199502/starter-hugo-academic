@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Motion control and autonomous naviagtion for wheeled bipedal robots
+  - title: Motion control and autonomous naviagtion for differential mobile robot and wheeled bipedal robot
     company: Tohoku University
     company_url: 'https://www.tohoku.ac.jp/en/'
     company_logo: org-gc

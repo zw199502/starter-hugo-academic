@@ -7,7 +7,7 @@ title: "Any Curve Path Following of Snake-like Robots"
 authors:
 - Xian Guo
 - admin
-- Yongchun Fang
+- and Yongchun Fang
 
 
 date: "2019-12-01T00:00:00Z"

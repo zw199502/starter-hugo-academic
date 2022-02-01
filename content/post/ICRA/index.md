@@ -3,7 +3,7 @@ title: A Hierarchical Deep Reinforcement Learning Framework with High Efficiency
 subtitle: Submitted for IROS, 2022, [Paper video](https://youtu.be/39LyfzhB47k).
 
 # Summary for listings and search engines
-summary: We proposed a DRL model for autonomous navigation in dynamic environments directly using raw Laser scans. We deployed the model in ROS/Gazebo using a differential mobile robot and real worlds with a quadruped robot.
+summary: We proposed a hierarchical DRL model for autonomous navigation in static environments directly using raw Laser scans. We deployed the model in ROS/Gazebo using a differential mobile robot and real worlds with a wheeled bipedal robot.
 
 # Is this an unpublished draft?
 draft: false

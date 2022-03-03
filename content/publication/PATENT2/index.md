@@ -26,7 +26,7 @@ publication_types: ["8"]
 publication: In *Chinese Patent*
 publication_short: In *Chinese Patent*
 
-abstract: A claw-bolt-baffle mechanism. Patent No.: ZL 2019 1 0083528.2, authorization date: 2022.03.01.
+abstract: A claw-bolt-baffle mechanism. Patent No. ZL 2019 1 0083528.2, authorization date 2022.03.01.
 
 tags: []
 

@@ -26,7 +26,7 @@ publication_types: ["8"]
 publication: In *Chinese Patent*
 publication_short: In *Chinese Patent*
 
-abstract: Mechanical and electronic design for a modular snake robot with 3D motion ability. Patent No. CN109676598B, 2022.03.01.
+abstract: Mechanical and electronic design for a modular snake robot with 3D motion ability. Patent No.: ZL 2019 1 0083530.X, authorization date: 2022.03.01.
 
 tags: []
 

@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Sim-to-real transfer for model-based reinforcement learning methods on robotic arms
+    company: Panasonic
+    company_url: 'https://tech-ai.panasonic.com/jp/'
+    company_logo: panasonic
+    location: Osaka, Japan
+    date_start: '2022-04-01'
+    date_end: '2022-09-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Already get the internship from Panasonic AI department
+        * Deploy model-based reinforcement learning methods on real robotic arms
+        
   - title: Motion control and autonomous naviagtion for differential mobile robot and wheeled bipedal robot
     company: Tohoku University
     company_url: 'https://www.tohoku.ac.jp/en/'

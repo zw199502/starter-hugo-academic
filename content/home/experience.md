@@ -27,13 +27,15 @@ experience:
     company_url: 'https://tech-ai.panasonic.com/jp/'
     company_logo: panasonic
     location: Osaka, Japan
-    date_start: '2022-04-01'
-    date_end: '2022-09-30'
+    date_start: '2022-05-09'
+    date_end: '2022-09-22'
     description: |2-
         Responsibilities include:
         
-        * Already get the internship from Panasonic AI department
-        * Deploy model-based reinforcement learning methods on real robotic arms
+        * Deploy the model-based reinforcement learning method on real robotic arms.
+        * The model includes GRUs to handle continuous control problems.
+        * The raw image is encoded to a small size latent feature vector with CNNs.
+        * The model is based on the latent features so as to avoid the burdensome calculation on the direct raw image.
         
   - title: Motion control and autonomous naviagtion for differential mobile robot and wheeled bipedal robot
     company: Tohoku University

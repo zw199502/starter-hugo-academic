@@ -33,9 +33,7 @@ experience:
         Responsibilities include:
         
         * Deploy the model-based reinforcement learning method on real robotic arms.
-        * The model includes GRUs to handle continuous control problems.
-        * The raw image is encoded to a small size latent feature vector with CNNs.
-        * The model is based on the latent features so as to avoid the burdensome calculation on the direct raw image.
+        * Write a paper
         
   - title: Motion control and autonomous naviagtion for differential mobile robot and wheeled bipedal robot
     company: Tohoku University

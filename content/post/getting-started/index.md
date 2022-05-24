@@ -1,11 +1,10 @@
 ---
 # title: Sampling Efficient Deep Reinforcement Learning for Dynamic Navigation with Raw Laser Scans
-title: Anonymous submission
-subtitle: Anonymous submission, [Paper video](https://youtu.be/sssi3Naiug0).
+title: Sampling Efficient Deep Reinforcement Learning for Dynamic Navigation with Raw Laser Scans
+subtitle: [Paper video](https://youtu.be/sssi3Naiug0).
 
 # Summary for listings and search engines
-summary: We proposed a DRL model for autonomous navigation in dynamic environments directly using raw Laser scans. We deployed the model in ROS/Gazebo using a differential mobile robot and real worlds with a quadruped robot.
-
+summary: We present a Sampling Efficient deep reinforcement learning (DRL) framework for Dynamic Navigation (SEDN) directly using raw laser scans. To accelerate the running of DRL training and simulate the laser sensor, we specially designed a kinematics-based simulator, where the learned policy can be directly transferred into a physics-based Gazebo simulator and the real world. Moreover, the policy acquired from a specific environment can be directly generalized to other diverse environments that have never been explored by the DRL model. To individually extract the motion features of surroundings, we transformed the center of the previous laser scans into the center of the current laser sensor. After processing the transformed laser scans with convoluted neural networks, the abstract features which state predictions for other moving objects, can be extracted for further DRL neural networks. To further enhance the sampling efficiency, and thus, optimize the navigation policy quickly and stably, we integrate optimal reciprocal collision avoidance (ORCA) to generate auxiliary action alternatives. Various experiments against several state-of-the-art baselines and sim-to-real implementations demonstrate a high success rate of dynamic navigation, superior generality, simulator effectiveness, and efficient sampling of our approach, with the videos shown on the website https://youtu.be/sssi3Naiug0
 # Is this an unpublished draft?
 draft: false
 

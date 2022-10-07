@@ -10,16 +10,16 @@ role: PhD student in robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Tohoku University
-  url: https://www.tohoku.ac.jp/en/
+- name: Department of Robotics, Tohoku University
+  url: http://neuro.mech.tohoku.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep reinforcement learning, snake robots, wheeled bipedal robots, autonomous navigation.
+bio: My research interests include deep reinforcement learning, snake robot, wheeled bipedal robot, robotic arm, quadruped robot, and autonomous navigation.
 
 # Interests to show in About widget
 interests:
 - deep reinforcement learning (DRL)
-- snake robots and wheeled bipedal robots
+- snake robot, wheeled bipedal robot, quadruped robot, and robotic arm
 - motion planning and navigation
 
 # Education to show in About widget
@@ -61,6 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University. My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots, autonomous navigation in static and dynamic environments.
+I am a PhD student in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University. My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.
 
 

@@ -36,7 +36,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9708882'
 url_code: 'https://github.com/zw199502/WheeledBipedalRobotRLPathTrack'
 url_video: 'https://www.youtube.com/watch?v=B01vbc-Lx1Q'
 

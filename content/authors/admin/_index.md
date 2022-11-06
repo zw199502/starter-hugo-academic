@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD student in Robotics
+  - course: PhD candidate in Robotics
     institution: Tohoku University advised by Prof. Mitsuhiro Hayashibe
     year: 2020.10-present
   - course: MEng in Control Science and Engineering
@@ -61,6 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan. My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.
+I am a PhD candidate in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan. My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.
 
 

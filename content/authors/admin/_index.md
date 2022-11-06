@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: PhD student in Robotics
-    institution: Tohoku University
+    institution: Tohoku University advised by Prof. Mitsuhiro Hayashibe
     year: 2020.10-present
   - course: MEng in Control Science and Engineering
-    institution: Nankai University
+    institution: Nankai University advised by Prof. Yongchun Fang
     year: 2017.9-2020.6
   - course: BEng in Intelligent Science and Technology
     institution: Nankai University

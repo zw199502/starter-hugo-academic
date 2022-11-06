@@ -61,6 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD candidate in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan. My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.
+I am a PhD candidate in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan. My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf)
 
 

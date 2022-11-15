@@ -4,7 +4,7 @@ title: Mastering Robotic Skills in Real Visual Worlds through Model-based Reinfo
 subtitle:  submit for ICRA2023, [Paper video](https://youtu.be/Z8hn0ekGw3Y).
 
 # Summary for listings and search engines
-summary: [Paper video](https://youtu.be/Z8hn0ekGw3Y).
+summary: submit for ICRA2023.
 draft: false
 
 # Show this page in the Featured widget?

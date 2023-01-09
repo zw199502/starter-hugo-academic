@@ -1,7 +1,7 @@
 ---
 # title: Sampling Efficient Deep Reinforcement Learning for Dynamic Navigation with Raw Laser Scans
 title: An Autonomous Navigation System among Pedestrians with a Dreamer based Motion Planner
-subtitle:  in preparation for submission to IEEE Robotics and Automation Letters (RA-L), [Paper video](https://youtu.be/3D29De7a-VE).
+subtitle:  in preparation for submission to IEEE Robotics and Automation Letters (RA-L), [Paper video](https://youtu.be/RVfYF8jYBsQ).
 
 # Summary for listings and search engines
 summary: in preparation for submission to IEEE Robotics and Automation Letters (RA-L).

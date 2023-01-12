@@ -1,7 +1,7 @@
 ---
 # title: Sampling Efficient Deep Reinforcement Learning for Dynamic Navigation with Raw Laser Scans
 title: Sampling Efficient Deep Reinforcement Learning for Dynamic Navigation with Raw Laser Scans
-subtitle:  IEEE/ASME Transactions on Mechatronics, under review for six months, [Paper video](https://youtu.be/sssi3Naiug0).
+subtitle:  IEEE/ASME Transactions on Mechatronics, under review for six months, [Paper video](https://youtu.be/wL3-diEXMes).
 
 # Summary for listings and search engines
 summary: IEEE/ASME Transactions on Mechatronics, under review for six months.

@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: PhD candidate in Robotics
-    institution: Tohoku University advised by Prof. [Mitsuhiro Hayashibe](url: http://neuro.mech.tohoku.ac.jp/)
+    institution: Tohoku University advised by Prof. Mitsuhiro Hayashibe
     year: 2020.10-present
   - course: MEng in Control Science and Engineering
-    institution: Nankai University advised by Prof. [Yongchun Fang](url: https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm)
+    institution: Nankai University advised by Prof. Yongchun Fang
     year: 2017.9-2020.6
   - course: BEng in Intelligent Science and Technology
     institution: Nankai University
@@ -61,6 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD candidate in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan. My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf)
+I am a PhD candidate in robotics at the [Department of Robotics](http://neuro.mech.tohoku.ac.jp/), Graduate School of Engineering, Tohoku University, Japan. My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf)
 
 

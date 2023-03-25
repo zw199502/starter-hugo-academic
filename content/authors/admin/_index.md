@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: PhD candidate in Robotics
-    institution: Tohoku University advised by Prof. [Mitsuhiro Hayashibe](http://neuro.mech.tohoku.ac.jp/)
+    institution: Tohoku University advised by Prof. [Mitsuhiro Hayashibe](url: http://neuro.mech.tohoku.ac.jp/)
     year: 2020.10-present
   - course: MEng in Control Science and Engineering
-    institution: Nankai University advised by Prof. [Yongchun Fang](https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm)
+    institution: Nankai University advised by Prof. [Yongchun Fang](url: https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm)
     year: 2017.9-2020.6
   - course: BEng in Intelligent Science and Technology
     institution: Nankai University

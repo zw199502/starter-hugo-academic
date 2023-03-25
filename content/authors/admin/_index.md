@@ -61,6 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD candidate in robotics supervised by Prof. [Mitsuhiro Hayashibe](http://neuro.mech.tohoku.ac.jp/) at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan. I got my Master's and Bachelor's degrees from Nankai University, China, in 2017 and 2020 respectively. My master advisor is Prof. [Yongchun Fang](https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm). My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf)
+I am a PhD candidate in robotics supervised by Prof. [Mitsuhiro Hayashibe](http://neuro.mech.tohoku.ac.jp/) at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan. I got my Master's and Bachelor's degrees from Nankai University, China, in 2020 and 2017 respectively. My master advisor is Prof. [Yongchun Fang](https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm). My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf)
 
 

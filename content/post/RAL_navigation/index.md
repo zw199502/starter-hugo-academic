@@ -4,7 +4,7 @@ title: An Autonomous Navigation System among Pedestrians with a Dreamer based Mo
 subtitle:  submitted to IEEE Robotics and Automation Letters (RA-L), [Paper video](https://youtu.be/4--XOcy2CS0).
 
 # Summary for listings and search engines
-summary: IEEE Robotics and Automation Letters (RA-L), revise and resubmit.
+summary: IEEE Robotics and Automation Letters (RA-L), revise and resubmit, [PDF](uploads/RAL.pdf).
 draft: false
 
 # Show this page in the Featured widget?

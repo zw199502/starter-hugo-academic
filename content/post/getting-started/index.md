@@ -4,7 +4,7 @@ title: Sampling Efficient Deep Reinforcement Learning for Dynamic Navigation wit
 subtitle:  IEEE/ASME Transactions on Mechatronics, under review for six months, [Paper video](https://youtu.be/wL3-diEXMes).
 
 # Summary for listings and search engines
-summary: IEEE/ASME Transactions on Mechatronics, reject and resubmit.
+summary: IEEE/ASME Transactions on Mechatronics, reject and resubmit [PDF](uploads/TMECH.pdf).
 draft: false
 
 # Show this page in the Featured widget?

@@ -37,6 +37,7 @@ featured: true
 #   url: http://example.org
 
 url_video: 'https://youtu.be/S95BQDEiTE0'
+url_code: 'https://github.com/zw199502/RL_navigation'
 url_pdf: 'https://ieeexplore.ieee.org/document/9834298'
 
 # Featured image

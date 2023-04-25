@@ -37,7 +37,9 @@ featured: true
 #   url: http://example.org
 
 url_video: 'https://youtu.be/KM2WPpQBfrI'
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8556369'
+url_code: 'https://github.com/zw199502/navigation_among_pedestrians'
+url_pdf: 'https://github.com/zw199502/starter-hugo-academic/blob/master/static/uploads/RAL.pdf'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

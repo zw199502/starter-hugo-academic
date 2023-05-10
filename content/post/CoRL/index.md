@@ -4,7 +4,7 @@ title: Learn to Navigate in Dynamic Environments with Normalized LiDAR Scans
 subtitle:  in preparation for submission to Conference of Robot Learning (CoRL), [Paper video](https://youtu.be/Eiyp8V8EjWo).
 
 # Summary for listings and search engines
-summary: in preparation for submission to Conference of Robot Learning (CoRL), [Video](https://youtu.be/sGKk0_fSDGM).
+summary: in preparation for submission to Conference of Robot Learning (CoRL), [Video](https://youtu.be/Eiyp8V8EjWo).
 draft: false
 
 # Show this page in the Featured widget?

@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Robotics and Automation Letters (RA-L)*
+publication: In *IEEE Robotics and Automation Letters (RA-L, IF4.3)*
 publication_short: In *IEEE Robotics and Automation Letters (RA-L)*
 
 abstract: Navigation among pedestrians is a crucial capability of service robots; however, it is a challenge to manage time-varying environments stably. Recent deep reinforcement learning (DRL)-based approaches to crowd navigation have yielded numerous promising applications. However, they rely heavily on initial imitation learning and colossal positive datasets. Moreover, the difficulties in accurately localizing robots, detecting and tracking humans, representing and generalizing reciprocal human relationships restrict their deployment in real-world problems. We propose a Dreamer-based motion planner for collision-free navigation in diverse pedestrian scenarios. Our RL framework can completely learn from zero experience via a model-based DRL. The robot and humans are first projected onto a map, which is subsequently decoded into low-dimensional latent state. A predictive dynamic model in the latent space is jointly created to efficiently optimize the navigation policy. Additionally, we leverage the techniques of system identification, domain randomization, clustering and LiDAR SLAM for practical deployment. Simulation ablations and real implementations demonstrate that our motion planner outperforms state-of-the-art methods, and that the navigation system can be physically implemented in the real world.

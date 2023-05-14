@@ -24,7 +24,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
-publication_short: In *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
+publication_short: In *IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF14.2)*
 
 abstract: The state-of-the-art reinforcement learning (RL) techniques have made innumerable advancements in robot control, especially in combination with deep neural networks (DNNs), known as deep reinforcement learning (DRL). Herein, instead of reviewing the theoretical studies on RL, which were almost fully completed several decades ago, we summarize some state-of-the-art techniques added to commonly used RL frameworks for robot control. We mainly review bio-inspired robots (BIRs), because they can learn to locomote or produce natural behaviors similar to animals and humans. With the ultimate goal of practical applications in real world, we further narrow our review scope to techniques that could aid in sim-to-real transfer. We categorized these techniques into four groups, a) use of accurate simulators, b) use of kinematic and dynamic models, c) use of hierarchical and distributed controllers, and d) use of demonstrations. The purposes of these four groups of techniques are to supply general and accurate environments for RL training, improve sampling efficiency, divide and conquer complex motion tasks and redundant robot structures, and acquire natural skills. We found that, by synthetically using these techniques, it is possible to deploy RL on physical BIRs in actuality.
 

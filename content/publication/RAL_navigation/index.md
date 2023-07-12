@@ -38,7 +38,7 @@ featured: true
 
 url_video: 'https://youtu.be/KM2WPpQBfrI'
 url_code: 'https://github.com/zw199502/navigation_among_pedestrians'
-url_pdf: 'https://ieeexplore.ieee.org/document/10120930'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10120930'
 
 
 # Featured image

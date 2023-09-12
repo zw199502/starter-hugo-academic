@@ -1,10 +1,10 @@
 ---
 # title: Sampling Efficient Deep Reinforcement Learning for Dynamic Navigation with Raw Laser Scans
 title: Learn to Navigate in Dynamic Environments with Normalized LiDAR Scans
-subtitle:  in preparation for submission to Conference of Robot Learning (CoRL), [Paper video](https://youtu.be/Eiyp8V8EjWo).
+subtitle:  submitted to ICRA2024, [Paper video](https://youtu.be/Eiyp8V8EjWo).
 
 # Summary for listings and search engines
-summary: in preparation for submission to Conference of Robot Learning (CoRL), [Video](https://youtu.be/Eiyp8V8EjWo).
+summary: submitted to ICRA2024, [Video](https://youtu.be/Eiyp8V8EjWo).
 draft: false
 
 # Show this page in the Featured widget?

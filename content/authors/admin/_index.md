@@ -6,12 +6,12 @@ title: Wei Zhu
 superuser: true
 
 # Role/position/tagline
-role: PhD student in robotics
+role: PhD in Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Robotics, Tohoku University
-  url: http://neuro.mech.tohoku.ac.jp/
+- name: Department of Intelligent Driving, Jingdong Logistics
+  url: https://www.jdl.com/en/IntelligenVehicle/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep reinforcement learning, snake robot, wheeled bipedal robot, robotic arm, quadruped robot, and autonomous navigation.
@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD candidate in Robotics
+  - course: PhD in Robotics
     institution: Tohoku University advised by Prof. Mitsuhiro Hayashibe
-    year: 2020.10-present
+    year: 2020.10-2023.9
   - course: MEng in Control Science and Engineering
     institution: Nankai University advised by Prof. Yongchun Fang
     year: 2017.9-2020.6
@@ -61,6 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD candidate in robotics supervised by Prof. [Mitsuhiro Hayashibe](http://neuro.mech.tohoku.ac.jp/) at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan. I got my Master's and Bachelor's degrees from Nankai University, China, in 2020 and 2017 respectively. My master advisor was Prof. [Yongchun Fang](https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm). My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf)
+I obtained my doctoral degree in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan, in 2023. My doctoral advisor was Prof. [Mitsuhiro Hayashibe](http://neuro.mech.tohoku.ac.jp/). I got my Master's and Bachelor's degrees from Nankai University, China, in 2020 and 2017 respectively. My master advisor was Prof. [Yongchun Fang](https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm). My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf)
 
 

@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Engineer in delivery robot
+    company: Jingdong Logistics
+    company_url: 'https://www.jingdonglogistics.com/'
+    company_logo: jdl_logo
+    location: Beijing, China
+    date_start: '2023-05-29'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Path planning, obstacle avoidance, and robot control for delivery robots.
+    
   - title: Sim-to-real transfer for model-based reinforcement learning methods on robotic arms
     company: Panasonic
     company_url: 'https://tech-ai.panasonic.com/jp/'
@@ -41,7 +53,7 @@ experience:
     company_logo: org-gc
     location: Sendai, Japan
     date_start: '2020-10-01'
-    date_end: ''
+    date_end: '2023-09-25'
     description: |2-
         Responsibilities include:
         

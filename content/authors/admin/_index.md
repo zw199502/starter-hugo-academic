@@ -6,7 +6,7 @@ title: Wei Zhu
 superuser: true
 
 # Role/position/tagline
-role: PhD in Engineering
+role: Engineer in Autonomous Driving
 
 # Organizations/Affiliations to show in About widget
 organizations:

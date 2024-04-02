@@ -22,13 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoc
+    company: Georgia Institute of Technology
+    company_url: 'https://lab-idar.gatech.edu/'
+    company_logo: gt_logo
+    location: Atlanta, USA
+    date_start: '2024-04-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * reinforcement learning, social navigation, and bipedal robot.
+    
   - title: Engineer in delivery robot
     company: Jingdong Logistics
     company_url: 'https://www.jingdonglogistics.com/'
     company_logo: jdl_logo
     location: Beijing, China
     date_start: '2023-05-29'
-    date_end: ''
+    date_end: '2024-3-29'
     description: |2-
         Responsibilities include:
         

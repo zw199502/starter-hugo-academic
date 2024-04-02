@@ -40,7 +40,7 @@ experience:
     company_logo: jdl_logo
     location: Beijing, China
     date_start: '2023-05-29'
-    date_end: '2024-3-29'
+    date_end: '2024-03-29'
     description: |2-
         Responsibilities include:
         

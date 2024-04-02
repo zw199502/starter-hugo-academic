@@ -6,12 +6,12 @@ title: Wei Zhu
 superuser: true
 
 # Role/position/tagline
-role: Engineer in Autonomous Driving
+role: Postdoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Intelligent Driving, Jingdong Logistics
-  url: https://www.jdl.com/en/IntelligenVehicle/
+- name: George W. Woodruff School of Mechanical Engineering, Georgia Tech
+  url: https://lab-idar.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep reinforcement learning, snake robot, wheeled bipedal robot, robotic arm, quadruped robot, and autonomous navigation.
@@ -61,6 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I obtained my doctoral degree in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan, in 2023. My doctoral advisor was Prof. [Mitsuhiro Hayashibe](http://neuro.mech.tohoku.ac.jp/). I got my Master's and Bachelor's degrees from Nankai University, China, in 2020 and 2017 respectively. My master advisor was Prof. [Yongchun Fang](https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm). My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf)
+I am a Poctdoc in Georgia Institute of Technology, co-working with Dr. Ye Zhao. I obtained my doctoral degree in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan, in 2023. My doctoral advisor was Prof. [Mitsuhiro Hayashibe](http://neuro.mech.tohoku.ac.jp/). I got my Master's and Bachelor's degrees from Nankai University, China, in 2020 and 2017 respectively. My master advisor was Prof. [Yongchun Fang](https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm). My research interests include deep reinforcement learning, design and control for snake robots, motion control and planning for legged robots and robotic arms, autonomous navigation in static and dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf)
 
 

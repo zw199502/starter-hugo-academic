@@ -37,6 +37,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/document/10611247'
+url_code: 'https://github.com/zw199502/LSTM_EGO'
 url_video: 'https://youtu.be/Eiyp8V8EjWo'
 
 # Featured image

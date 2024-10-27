@@ -1,10 +1,10 @@
 ---
 # title: Sampling Efficient Deep Reinforcement Learning for Dynamic Navigation with Raw Laser Scans
 title: Sampling Efficient Deep Reinforcement Learning for Dynamic Navigation with Raw Laser Scans
-subtitle:  IEEE Transactions on Intelligent Transportation Systems, under review for two months, [Paper video](https://youtu.be/wL3-diEXMes).
+subtitle:  further revision, [Paper video](https://youtu.be/wL3-diEXMes).
 
 # Summary for listings and search engines
-summary: IEEE Transactions on Intelligent Transportation Systems, under review for two months, [Paper video](https://youtu.be/wL3-diEXMes).
+summary: further revision, [Paper video](https://youtu.be/wL3-diEXMes).
 draft: false
 
 # Show this page in the Featured widget?

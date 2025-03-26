@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor
     company: Tohoku University
-    company_url: 'https://lab-idar.gatech.edu/'
+    company_url: 'https://neuro.mech.tohoku.ac.jp/'
     company_logo: org-gc
     location: Sendai, Japan
     date_start: '2025-04-01'

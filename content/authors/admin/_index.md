@@ -6,12 +6,12 @@ title: Wei Zhu
 superuser: true
 
 # Role/position/tagline
-role: Postdoc
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: George W. Woodruff School of Mechanical Engineering, Georgia Tech
-  url: https://lab-idar.gatech.edu/
+- name: Department of Robotics, Tohoku University
+  url: https://neuro.mech.tohoku.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep reinforcement learning, snake robots, wheeled bipedal robots, robotic arms, quadruped robots, humanoid robots, and social navigation.
@@ -61,6 +61,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am going to join Tohoku University as an assistant professor this April. I am now a Poctdoc in Georgia Institute of Technology, co-working with Dr. [Ye Zhao](https://sites.google.com/site/yezhaout). I obtained my doctoral degree in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan, in 2023. My doctoral advisor was Prof. [Mitsuhiro Hayashibe](http://neuro.mech.tohoku.ac.jp/). I got my Master's and Bachelor's degrees from Nankai University, China, in 2020 and 2017 respectively. My master advisor was Prof. [Yongchun Fang](https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm). My research interests include deep reinforcement learning, design and control for snake robots, locomotion control and motion planning for legged robots and robotic arms, and autonomous navigation in dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf). [Google Scholar](https://scholar.google.com/citations?user=VF626xoAAAAJ&hl=en).
+I am an Assistant Professor at Tohoku University. I have one-year Poctdoc experience at Georgia Institute of Technology, co-working with Associate Professor [Ye Zhao](https://sites.google.com/site/yezhaout). I obtained my doctoral degree in robotics at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan, in 2023. My doctoral advisor was Prof. [Mitsuhiro Hayashibe](http://neuro.mech.tohoku.ac.jp/). I got my Master's and Bachelor's degrees from Nankai University, China, in 2020 and 2017 respectively. My master advisor was Prof. [Yongchun Fang](https://aien.nankai.edu.cn/2021/1108/c28086a418492/page.htm). My research interests include deep reinforcement learning, design and control for snake robots, locomotion control and motion planning for legged robots and robotic arms, and autonomous navigation in dynamic environments.[CV](uploads/CV_WEI_ZHU.pdf). [Google Scholar](https://scholar.google.com/citations?user=VF626xoAAAAJ&hl=en).
 
 

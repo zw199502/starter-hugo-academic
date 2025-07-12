@@ -25,8 +25,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ArXiv*
-publication_short: In *ArXiv*
+publication: In *IEEE Robotics and Automation Letters*
+publication_short: In *IEEE Robotics and Automation Letters*
 
 abstract: Humanoid robots promise transformative capabilities for industrial and service applications. While recent advances in Reinforcement Learning (RL) yield impressive results in locomotion, manipulation, and navigation, the proposed methods typically require enormous simulation samples to account for real-world variability. This work proposes a novel one-stage training framework—Learn to Teach (L2T)—which unifies teacher and student policy learning. Our approach recycles simulator samples and synchronizes the learning trajectories through shared dynamics, significantly reducing sample complexities and training time while achieving state-of-the-art performance. Furthermore, we validate the RL variant (L2T-RL) through extensive simulations and hardware tests on the Digit robot, demonstrating zero-shot sim-to-real transfer and robust performance over 12+ challenging terrains. This paradigm significantly reduces sample complexities and training time while achieving state-of-the-art performance.
 

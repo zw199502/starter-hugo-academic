@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Sendai, Japan
     date_start: '2025-04-01'
-    date_end: 'present'
+    date_end: ''
     description: |2-
         Responsibilities include:
         

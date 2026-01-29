@@ -42,7 +42,7 @@ featured: true
 
 url_video: 'https://www.youtube.com/watch?v=fNNL56sTSjY'
 url_code: 'https://github.com/GTLIDAR/emobipednav'
-url_pdf: 'https://arxiv.org/abs/2503.12538'
+url_pdf: 'https://ieeexplore.ieee.org/document/11367796'
 
 
 # Featured image

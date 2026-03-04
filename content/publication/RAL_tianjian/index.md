@@ -6,7 +6,7 @@ title: "Iterative Adversarial Learning with Chaser Agents for Time-efficient Cro
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Tianjian Yuan
-- admin*
+- admin
 - Mitsuhiro Hayashibe
 
 
@@ -38,7 +38,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10959017'
+url_pdf: 'https://ieeexplore.ieee.org/document/11397156'
 
 
 # Featured image

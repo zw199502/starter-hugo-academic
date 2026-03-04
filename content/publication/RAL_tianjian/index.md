@@ -40,7 +40,7 @@ featured: true
 
 url_pdf: 'https://ieeexplore.ieee.org/document/11397156'
 url_code: 'https://github.com/tohoku-neurobotics/AdvNav'
-url_website: 'https://tohoku-neurobotics.github.io/advnav.github.io/'
+url_video: 'https://youtu.be/nfQ44aYeIT4?si=Me1JT_5CD4yNJnx-'
 
 
 # Featured image

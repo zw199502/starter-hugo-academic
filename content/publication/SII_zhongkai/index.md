@@ -9,7 +9,7 @@ authors:
 - admin
 - Mitsuhiro Hayashibe
 
-date: "2025-03-01T00:00:00Z"
+date: "2026-02-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -36,7 +36,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10959017'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/11404590'
 
 
 # Featured image

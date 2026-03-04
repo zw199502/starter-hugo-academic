@@ -39,6 +39,8 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/document/11397156'
+url_code: 'https://github.com/tohoku-neurobotics/AdvNav'
+url_website: 'https://tohoku-neurobotics.github.io/advnav.github.io/'
 
 
 # Featured image

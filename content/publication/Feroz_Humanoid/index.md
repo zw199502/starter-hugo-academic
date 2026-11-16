@@ -6,8 +6,8 @@ title: "Body-Aware Semantic Topological Representation for Humanoid Robot Spatia
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Feroz Fernando
-- Mitsuhiro Hayashibe
 - admin
+- and Mitsuhiro Hayashibe
 
 date: "2026-09-02T00:00:00Z"
 

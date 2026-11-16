@@ -37,6 +37,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+url_video: 'https://youtu.be/pEabsx9Knk0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

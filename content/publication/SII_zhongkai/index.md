@@ -7,7 +7,7 @@ title: "HumanoidDex: Multi-Objects Loco-Manipulation Framework"
 authors:
 - Zhongkai Gu
 - admin
-- Mitsuhiro Hayashibe
+- and Mitsuhiro Hayashibe
 
 date: "2026-02-01T00:00:00Z"
 
@@ -37,6 +37,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/11404590'
+url_video: 'https://youtu.be/szN9oP4Qpc8'
 
 
 # Featured image

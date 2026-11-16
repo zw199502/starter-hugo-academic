@@ -6,7 +6,7 @@ title: "Learn to Navigate in Dynamic Environments with Normalized LiDAR Scans"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Mitsuhiro Hayashibe
+- and Mitsuhiro Hayashibe
 
 
 date: "2024-10-01T00:00:00Z"

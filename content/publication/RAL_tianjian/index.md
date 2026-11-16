@@ -7,7 +7,7 @@ title: "Iterative Adversarial Learning with Chaser Agents for Time-efficient Cro
 authors:
 - Tianjian Yuan
 - admin
-- Mitsuhiro Hayashibe
+- and Mitsuhiro Hayashibe
 
 
 date: "2026-01-22T00:00:00Z"

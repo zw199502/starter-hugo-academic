@@ -39,6 +39,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+url_video: 'https://tohoku-neurobotics.github.io/trance.github.io/'
+url_code: 'https://github.com/tohoku-neurobotics/trance'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/11741282'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
